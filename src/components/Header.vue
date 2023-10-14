@@ -49,7 +49,7 @@ export default {
     left: 50px;
     width: 365px;
     height: 56px;
-    background: transparent url('@/assets/logo.svg') 0% 0% no-repeat padding-box;
+    background: transparent url('@/assets/Logo.svg') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
 
