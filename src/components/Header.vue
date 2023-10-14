@@ -13,7 +13,7 @@
         <div class="right-items">
             <div class="nav-item">Login</div>
             <div class="nav-item">Contact</div>
-            <div class="language-selector">English  <img src="@/assets/icons/Path 100.png"/><i class="arrow-down"></i></div>
+            <div class="language-selector">English  <img src="@/assets/icons/Path100.png"/><i class="arrow-down"></i></div>
         </div>
     </div>
 </template>

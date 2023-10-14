@@ -5,10 +5,10 @@
             <p class="text2">Easy to use management tools, our fastest possible execution and spreads as low as 0.0.</p>
             <p class="text3">
                 <span>Quick Guide: CommuniTraders Web User Manual  </span>
-                <img class="icon" src="@/assets/icons/Icon awesome-external-link-alt.png" alt="External Link Icon" />
+                <img class="icon" src="@/assets/icons/Iconawesome-external-link-alt.png" alt="External Link Icon" />
             </p>
         </div>
-        <img class="image" src="@/assets/Mask Group 2.png" alt="Mask Group 2 Image" />
+        <img class="image" src="@/assets/MaskGroup2.png" alt="MaskGroup2 Image" />
     </div>
 </template>
 
