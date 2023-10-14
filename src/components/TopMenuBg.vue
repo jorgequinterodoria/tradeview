@@ -1,7 +1,7 @@
 
 <template>
     <div class="top-menu-bg">
-        <img class="group-30" src="@/assets/Group 30.png" alt="Group 30" />
+        <img class="group-30" src="@/assets/Group30.png" alt="Group 30" />
         <div class="horizontal-line"></div>
         <p class="text">
             Tradeview’s CommuniTraders software lets our partners provide value-added copy trading to their clients.
@@ -39,7 +39,7 @@ export default {
     left: 340px;
     width: 420px;
     height: 118px;
-    background: transparent url('@/assets/Group 30.png') 0% 0% no-repeat padding-box;
+    background: transparent url('@/assets/Group30.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
 
