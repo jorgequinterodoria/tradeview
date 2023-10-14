@@ -2,7 +2,7 @@
 <template>
     <div class="header">
         <div class="logo">
-            <img class="logo-img" src="@/assets/logo.svg" alt="Logo" />
+            <img class="logo-img" src="@/assets/Logo.svg" alt="Logo" />
         </div>
         <div class="nav-items">
             <div class="nav-item">Forex</div>
